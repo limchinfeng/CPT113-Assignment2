@@ -1,0 +1,35 @@
+G10@student.usm.my	G10	Lim Chee Ping	0178974682	010115030787	159002	3	1
+2.58	20	2.48	18	3.55	17	2.02	19	0.0	0	0.0	0	0.0	0	0.0	0
+CPT111	Principles of Programming	3
+CPT112	Discrete Structures	4
+CST131	Computer Organisations	4
+CPT113	Programming Methodology & Data Structures	3
+CPC151	Fundamentals of Logic and Artificial Intelligence	4
+CPC152	Foundations and Programming for Data Analytics	4
+CAT201	Integrated Software Development Workshop	2
+CMT221	Database Organisations & Design	4
+CST232	Operating Systems	3
+CSE241	Foundations of Software Engineering	4
+CPT212	Design & Analysis of Algorithms	4
+CST235	Principles of Computer Networks and Information Security	4
+CAT304	Group Innovation Project and Study for Sustainability	3
+CAT302	Industrial Training	12
+CAT402	Professional & Technopreneurship Development	2
+HFF225	Philosophy and Current Issues	2
+HFE224	Appreciation of Ethics and Civilisations	2
+LKM400	Bahasa Malaysia IV	2
+WUS101	Core Entrepreneurship	2
+LSP300	Academic English	2
+LSP404	Technical and Engineering English	2
+WSU101	Sustainability of Issues, Challenges and Prospects	2
+AKW103	Introduction to Management	4
+AKW104	Finance and Accounting	4
+AKP201	Marketing	4
+AKP202	Organizational Behavior	4
+MAA101	Calculus for Science Students I	4
+MAA102	Calculus for Science Students II	4
+MAA111	Algebra for Science Students	4
+WSC115	Taekwondo I	1
+WSC125	Futsal	1
+WSC126	Netball	1
+WSC127	Event Management 1	1
